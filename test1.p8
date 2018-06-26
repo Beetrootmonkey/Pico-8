@@ -1,6 +1,8 @@
 pico-8 cartridge // http://www.pico-8.com
 version 16
 __lua__
+--pacman clone
+--by beetrootmonkey
 p={}
 enemies={}
 dbm=0
@@ -399,4 +401,3 @@ __sfx__
 001100000ca501ca001ba001ba0014a501aa0019a0019a000ca5016a0016a0015a0014a500ba002aa0016a000ca5018a0009a001aa0014a500ca000ca000ca000ca500ca000ca000ca0014a500ca000ca000ca00
 __music__
 00 40424344
-
